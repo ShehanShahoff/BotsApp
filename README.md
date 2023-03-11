@@ -10,7 +10,12 @@
  ![GitHub contributors](https://img.shields.io/github/contributors/Prince-Mendiratta/BotsApp) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Prince-Mendiratta/BotsApp) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Prince-Mendiratta/BotsApp) ![GitHub Repo stars](https://img.shields.io/github/stars/Prince-Mendiratta/BotsApp?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/Prince-Mendiratta/BotsApp)
  
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/qa_ia0?referralCode=_Hy7Gv)
+
 ![Docker Pulls](https://img.shields.io/docker/pulls/princemendiratta/botsapp?style=flat-square&label=Docker+Pulls) ![Docker Image Size](https://img.shields.io/docker/image-size/princemendiratta/botsapp?style=flat-square&label=Docker+Image+Size)
+
+## `Scan QR Code For Session`
+[![Zenitsu-Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@ShehanShahofc/ZenitsuBot-QR-Scanner?output%20only=1&lite=1#index.js)
+
 
 BotsApp is an optimized and easy-to-use WhatsApp UserBot written in Node.js.
 
